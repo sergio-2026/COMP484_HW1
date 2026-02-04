@@ -37,5 +37,3 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 		  iii.	passes the value of 200 for width, and 136 for height
 		  iv.	applies a class of “flowLeft”			
 					
-
-
